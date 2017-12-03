@@ -1,2 +1,3 @@
 # FractalApplet
 
+![Screenshot](screenshot.png)
