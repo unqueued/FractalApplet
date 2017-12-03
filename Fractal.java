@@ -260,7 +260,7 @@ public class Fractal extends JApplet {
 							//countIterations((xi+(xS+xE))*step,(yi+(xS+xE))*step)/100.0F,1F,1F
 						)
 					);
-					g.fillOval(xi,yi,1,1);
+					g.fillOval(xi,yi,2,2);
 				}
 			}
 			
