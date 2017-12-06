@@ -1,6 +1,5 @@
 
 touch -h -t 201712031350.36 "."
-touch -h -t 201712031350.45 "./.DS_Store"
 touch -h -t 201712031350.36 "./.git"
 touch -h -t 201712031343.34 "./.gitignore"
 touch -h -t 200912161256.36 "./Fractal.java"
